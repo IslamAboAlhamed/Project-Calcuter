@@ -1,0 +1,33 @@
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\bin\Debug\SimpleCalcuter.exe.config
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\bin\Debug\SimpleCalcuter.exe
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\bin\Debug\SimpleCalcuter.pdb
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\obj\Debug\SimpleCalcuter.csproj.AssemblyReference.cache
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\obj\Debug\SimpleCalcuter.Form1.resources
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\obj\Debug\SimpleCalcuter.Properties.Resources.resources
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\obj\Debug\SimpleCalcuter.csproj.GenerateResource.cache
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\obj\Debug\SimpleCalcuter.csproj.CoreCompileInputs.cache
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\obj\Debug\SimpleCalcuter.exe
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\obj\Debug\SimpleCalcuter.pdb
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\obj\Debug\SimpleCalcuter.exe.config
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\bin\Debug\SimpleCalcuter.exe.config
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\bin\Debug\SimpleCalcuter.exe
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\bin\Debug\SimpleCalcuter.pdb
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.csproj.AssemblyReference.cache
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.exe.config
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.Form1.resources
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.Properties.Resources.resources
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.csproj.GenerateResource.cache
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.csproj.CoreCompileInputs.cache
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.exe
+C:\Users\New World\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.pdb
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\bin\Debug\SimpleCalcuter.exe.config
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\bin\Debug\SimpleCalcuter.exe
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\bin\Debug\SimpleCalcuter.pdb
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.csproj.AssemblyReference.cache
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.exe.config
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.Form1.resources
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.Properties.Resources.resources
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.csproj.GenerateResource.cache
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.csproj.CoreCompileInputs.cache
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.exe
+C:\Users\Hp Zbook G3\source\repos\SimpleCalcuter\SimpleCalcuter\obj\Debug\SimpleCalcuter.pdb
